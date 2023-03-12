@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Gracias por interesarte en mi proyecto! (Modulo 2 del PrepCourse de henry)
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local
